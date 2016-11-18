@@ -1,0 +1,2 @@
+# yashwin-hinjewadi
+A Residential home by Vilas Javdekar Developers, a project which is located in Hinjewadi, pune. The project is named Yashwin Hinjewadi and the project offers 2 and 3 BHK Apartment Classification with the Area which ranges from 850 sqft - 1200 sqft. The budget begin from Rs 55 Lakhs and the project is expected to be completed by the year 2019 and for more information visit @ http://www.yashwinhinjewadi.net.in/
